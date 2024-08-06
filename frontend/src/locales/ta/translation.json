@@ -1,0 +1,18 @@
+{
+    "welcome": "வணக்கம்",
+    "login": "உள் நுழை",
+    "home": "முகப்பு",
+    "bookmarks": "புத்தக குறிகள்",
+    "explore": "ஆராய",
+    "feed": "பதிவு",
+    "lists": "பட்டியல்",
+    "profile": "சுயவிவரம்",
+    "settings": "அமைப்புகள்",
+    "logout": "வெளியேறு",
+    "message": "செய்தி",
+    "notifications": "அறிவிப்புகள்",
+    "search": "தேடல்",
+    "trending": "பிரபலமான",
+    "greeting": "வணக்கம், {{name}}!"
+  }
+  

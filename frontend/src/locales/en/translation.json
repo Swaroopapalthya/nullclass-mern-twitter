@@ -1,0 +1,18 @@
+{
+    "welcome": "Welcome",
+    "login": "Login",
+    "home": "Home",
+    "bookmarks": "Bookmarks",
+    "explore": "Explore",
+    "feed": "Feed",
+    "lists": "Lists",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "message": "Message",
+    "notifications": "Notifications",
+    "search": "Search",
+    "trending": "Trending",
+    "greeting": "Hello, {{name}}!"
+  }
+  

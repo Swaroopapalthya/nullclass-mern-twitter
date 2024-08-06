@@ -5,11 +5,11 @@ import {Outlet} from 'react-router-dom';
 import Sidebar from './Sidebar/Sidebar';
 import Widgets from './Widgets/Widgets';
 import { useAuthState} from 'react-firebase-hooks/auth';
+import { useTranslation } from 'react-i18next';
 
 const Home = () => {
     const user = useAuthState(auth)
-    // console.log(user[0]?.email);
-  
+    const { t } = useTranslation();
 
     const handleLogout=()=> {
         signOut(auth)

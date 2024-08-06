@@ -1,0 +1,18 @@
+{
+    "welcome": "స్వాగతం",
+    "login": "లాగిన్",
+    "home": "హోమ్",
+    "bookmarks": "బుక్‌మార్క్‌లు",
+    "explore": "పరిశోధన",
+    "feed": "ఫీడ్",
+    "lists": "జాబితాలు",
+    "profile": "ప్రొఫైల్",
+    "settings": "సెట్టింగ్స్",
+    "logout": "లాగ్ అవుట్",
+    "message": "సందేశం",
+    "notifications": "నోటిఫికేషన్‌లు",
+    "search": "వెతకండి",
+    "trending": "ట్రెండింగ్",
+    "greeting": "హలో, {{name}}!"
+  }
+  

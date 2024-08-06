@@ -1,0 +1,18 @@
+{
+    "welcome": "Bienvenido",
+    "login": "Iniciar sesión",
+    "home": "Inicio",
+    "bookmarks": "Marcadores",
+    "explore": "Explorar",
+    "feed": "Noticias",
+    "lists": "Listas",
+    "profile": "Perfil",
+    "settings": "Configuraciones",
+    "logout": "Cerrar sesión",
+    "message": "Mensaje",
+    "notifications": "Notificaciones",
+    "search": "Buscar",
+    "trending": "Tendencias",
+    "greeting": "Hola, {{name}}!"
+  }
+  

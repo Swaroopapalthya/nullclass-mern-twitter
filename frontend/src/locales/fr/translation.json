@@ -1,0 +1,18 @@
+{
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "home": "Accueil",
+    "bookmarks": "Signets",
+    "explore": "Explorer",
+    "feed": "Fil",
+    "lists": "Listes",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "message": "Message",
+    "notifications": "Notifications",
+    "search": "Recherche",
+    "trending": "Tendance",
+    "greeting": "Bonjour, {{name}}!"
+  }
+  

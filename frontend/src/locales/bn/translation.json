@@ -1,0 +1,18 @@
+{
+    "welcome": "স্বাগতম",
+    "login": "লগইন",
+    "home": "হোম",
+    "bookmarks": "বুকমার্ক",
+    "explore": "অন্বেষণ",
+    "feed": "ফিড",
+    "lists": "তালিকা",
+    "profile": "প্রোফাইল",
+    "settings": "সেটিংস",
+    "logout": "লগ আউট",
+    "message": "বার্তা",
+    "notifications": "বিজ্ঞপ্তি",
+    "search": "অনুসন্ধান",
+    "trending": "প্রবণতা",
+    "greeting": "হ্যালো, {{name}}!"
+  }
+  
